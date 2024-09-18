@@ -15,6 +15,9 @@
 	  
 	 <!--生成注释-->
 	<GenerateDocumentationFile>true</GenerateDocumentationFile>
+	<PackageProjectUrl>https://github.com/Misaka11693/EasyAutoInject</PackageProjectUrl>
+	<RepositoryUrl>https://github.com/Misaka11693/EasyAutoInject</RepositoryUrl>
+	<RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
